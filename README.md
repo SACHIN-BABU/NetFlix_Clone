@@ -162,7 +162,6 @@ body {
 }
 
 .banner {
-  background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/5d1a6f8f-3a4a-4b9e-8e7f-0b2f2a7a1f4b/2b3f4f6e-7f9c-4a8b-8c9f-3f7c7b5f9e6b/IN-en-20250601-popsignuptwoweeks-perspective_alpha_website_medium.jpg');
   background-size: cover;
   background-position: center;
   height: 60vh;
