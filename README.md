@@ -253,6 +253,28 @@ body {
   color: #666;
   background-color: #141414;
 }
+
+@media (max-width: 700px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 12px 20px;
+  }
+  .nav-links {
+    gap: 14px;
+    margin-top: 8px;
+  }
+  .content-row {
+    padding: 20px 10px;
+  }
+  .banner-content h1 {
+    font-size: 2rem;
+  }
+  .banner-content p {
+    font-size: 1rem;
+  }
+}
+
 ```
 ## Output:
 ![Screenshot 2025-07-09 231516](https://github.com/user-attachments/assets/1682db6f-63ad-410e-b99c-b36b717d5ce7)
