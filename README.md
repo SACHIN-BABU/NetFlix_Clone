@@ -276,7 +276,8 @@ body {
 
 ```
 ## Output:
-![Screenshot 2025-07-09 231516](https://github.com/user-attachments/assets/1682db6f-63ad-410e-b99c-b36b717d5ce7)
+![Screenshot 2025-07-10 102422](https://github.com/user-attachments/assets/571289c0-94f7-4960-95d3-c5ffdf101aef)
+
 
 
 ## Result:
